@@ -16,6 +16,7 @@
 *.sage.py
 *.so
 *.spec
+my-env/
 .DS_STORE
 .Python
 .cache
